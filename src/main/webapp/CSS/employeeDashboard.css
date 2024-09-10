@@ -1,0 +1,16 @@
+.empdash ul{
+	list-style-type:none;
+	width:100%;
+	background-color:black;
+	padding:10px;
+}
+.empdash ul li{
+	display:inline;
+	padding:10px;
+	
+	
+}
+.empdash ul lii a{
+	text-decoration:none;
+	color:white;
+}

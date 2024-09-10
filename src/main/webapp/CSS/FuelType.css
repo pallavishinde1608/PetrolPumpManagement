@@ -1,0 +1,15 @@
+.formfuel{
+	position:absolute;
+	left:500px;
+	top:100px;
+    background-color:crimson;
+	padding:20px;
+	color:white;
+	width:550px;
+	min-height:200px;
+	box-shadow: 10px 10px lightpink;
+}
+
+.control{
+	margin:10px;
+}

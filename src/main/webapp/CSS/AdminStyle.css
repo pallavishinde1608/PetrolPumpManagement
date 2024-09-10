@@ -1,0 +1,35 @@
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.mycontainer{
+	width:100%;
+	min-height:100vh;
+	
+}
+.admin-sidebar{
+	width:25%;
+	min-height:100vh;
+	background-color:black;
+	
+}
+.admin-dahsboard{
+	width:100%;
+	min-height:100vh;
+	background-color:gray;		
+}
+.admin-sidebar h1{
+	color:white;
+	padding-bottom:20px;
+	padding-top:20px;
+}
+ul li a{
+	 text-decoration: none;
+     font-size: 20px;
+     	
+}
+ul li{
+padding-bottom:30px;
+}

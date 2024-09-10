@@ -1,0 +1,13 @@
+.formarea{
+	position:absolute;
+	padding:20px;
+	width:500px;
+	color:white;
+	background-color:crimson;
+	margin-left:150px;
+	margin-top:50px;
+	box-shadow: 10px 10px lightpink;
+}
+.control{
+	margin:10px;
+}
